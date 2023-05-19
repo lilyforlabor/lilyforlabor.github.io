@@ -3,16 +3,16 @@
 #
 
 # Name of your site (displayed in the header)
-name: Lily for Labor
+name: Leili for ALP National Conference
 
 # Name of the author
-author: Lily
+author: Leili
 
 # Short bio or description (displayed in the header)
 description: "Listening to You, Speaking for Us"
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/lilyforlabor.png
+avatar: /images/leiliforlabor.png
 
 #
 # Flags below are optional
@@ -48,8 +48,8 @@ google_analytics:
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: https://lilyforlabor.netlify.app/
-enforce_ssl: https://lilyforlabor.netlify.app/
+url: https://leiliforlabor.netlify.app/
+enforce_ssl: https://leiliforlabor.netlify.app/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
